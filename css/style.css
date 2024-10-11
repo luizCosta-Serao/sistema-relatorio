@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.grafico {
+  width: 50%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #eee;
+  width: 100%;
+}
